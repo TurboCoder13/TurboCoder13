@@ -20,6 +20,13 @@ Building developer tools for automation, code quality, and not burning your reti
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TurboCoder13&theme=github-dark&hide_border=true)
 
+## Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboCoder13&layout=compact&theme=dark&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TurboCoder13&theme=dark&hide_border=true)
+
+![Snake animation](https://raw.githubusercontent.com/TurboCoder13/TurboCoder13/output/github-snake-dark.svg)
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eitel-dagnin-b72439132/)
