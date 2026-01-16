@@ -27,6 +27,15 @@ Building developer tools for automation, code quality, and not burning your reti
 
 ![Snake animation](https://raw.githubusercontent.com/TurboCoder13/TurboCoder13/output/github-snake-dark.svg)
 
+## Toolbox
+
+[![CodeRabbit](https://img.shields.io/badge/-CodeRabbit-FF6B35?style=flat-square&logo=rabbit&logoColor=white)](https://coderabbit.ai)
+[![Codecov](https://img.shields.io/badge/-Codecov-F01F7A?style=flat-square&logo=codecov&logoColor=white)](https://codecov.io)
+[![Renovate](https://img.shields.io/badge/-Renovate-1A73E8?style=flat-square&logo=renovate&logoColor=white)](https://renovatebot.com)
+[![Graphite](https://img.shields.io/badge/-Graphite-6366F1?style=flat-square&logo=graphite&logoColor=white)](https://graphite.dev)
+[![GitGuardian](https://img.shields.io/badge/-GitGuardian-1B2631?style=flat-square&logo=gitguardian&logoColor=white)](https://gitguardian.com)
+[![Allstar](https://img.shields.io/badge/-Allstar-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/ossf/allstar)
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eitel-dagnin-b72439132/)
