@@ -22,6 +22,8 @@ Building developer tools for automation, code quality, and not burning your reti
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TurboCoder13&show_icons=true&theme=dark&hide_border=true&hide_title=true)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TurboCoder13&theme=github-dark&hide_border=true)
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eitel-dagnin-b72439132/)
