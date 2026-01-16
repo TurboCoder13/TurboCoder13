@@ -22,8 +22,8 @@ Building developer tools for automation, code quality, and not burning your reti
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboCoder13&layout=compact&theme=dark&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TurboCoder13&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboCoder13&layout=compact&theme=github_dark&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TurboCoder13&theme=github-dark-blue&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/TurboCoder13/TurboCoder13/output/github-snake-dark.svg)
 
