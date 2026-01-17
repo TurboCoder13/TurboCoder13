@@ -12,11 +12,11 @@ Building developer tools for automation, code quality, and not burning your reti
 
 ## Projects
 
-| | Project | Description |
-|---|---------|-------------|
-| 🧹 | [Lintro](https://github.com/TurboCoder13/py-lintro) | Unified linting & formatting CLI — one command for Ruff, Prettier, Hadolint, Bandit & more |
-| 🎨 | [Turbo Themes](https://github.com/TurboCoder13/turbo-themes) | Universal theme packs (Catppuccin, Dracula, GitHub) for npm, PyPI, RubyGems & Swift |
-| ⚙️ | [Zshrc Manager](https://github.com/TurboCoder13/extensions/tree/main/extensions/zshrc-manager) | Raycast extension to search, edit & organize your shell config |
+|     | Project                                                                                        | Description                                                                                |
+| --- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 🧹  | [Lintro](https://github.com/TurboCoder13/py-lintro)                                            | Unified linting & formatting CLI — one command for Ruff, Prettier, Hadolint, Bandit & more |
+| 🎨  | [Turbo Themes](https://github.com/TurboCoder13/turbo-themes)                                   | Universal theme packs (Catppuccin, Dracula, GitHub) for npm, PyPI, RubyGems & Swift        |
+| ⚙️  | [Zshrc Manager](https://github.com/TurboCoder13/extensions/tree/main/extensions/zshrc-manager) | Raycast extension to search, edit & organize your shell config                             |
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TurboCoder13&theme=github-dark&hide_border=true)
 
@@ -38,4 +38,4 @@ Building developer tools for automation, code quality, and not burning your reti
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eitel-dagnin-b72439132/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eitel-dagnin/)
