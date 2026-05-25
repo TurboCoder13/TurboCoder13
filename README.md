@@ -11,13 +11,13 @@
 
 Hey! 👋 I'm a **DevOps engineer** based in the Netherlands 🇳🇱, originally from Cape Town 🇿🇦. I spend my days on CI/CD governance, platform automation, and infrastructure — and my evenings shipping open-source developer tools under [LGTM HQ](https://github.com/lgtm-hq).
 
-🤖 Everything I ship is **AI-augmented** — Claude Code, Cursor, Codex, and Greptile are part of my daily workflow. But every line still passes through [Lintro](https://github.com/lgtm-hq/py-lintro) (18+ linters), CodeRabbit review, OpenSSF Scorecard compliance, and full CI pipelines. AI writes faster; the toolchain makes sure it writes correctly.
+🤖 Everything I ship is **AI-augmented** — Claude Code, Cursor, and Codex write the code; CodeRabbit and Greptile review it. But every line still passes through [Lintro](https://github.com/lgtm-hq/py-lintro) (28+ tools), OpenSSF Scorecard compliance, and full CI pipelines. AI writes faster; the toolchain makes sure it writes correctly.
 
 ## 🛠️ Projects
 
 ### 🧹 [Lintro](https://github.com/lgtm-hq/py-lintro)
 
-Unified CLI for linting, formatting, and quality assurance across 18+ tools. Published to PyPI, Homebrew, and GHCR.
+Unified CLI for linting, formatting, and quality assurance across 28+ tools. Published to PyPI, Homebrew, and GHCR.
 
 `Python` `Docker` `Shell` `Rust`
 
@@ -38,18 +38,6 @@ Universal, accessible theme packs with a drop-in theme selector. Catppuccin, Dra
 Privacy-first, offline-first résumé builder powered by Rust and Typst. Dockerized deployment with multi-stage builds.
 
 `Rust` `TypeScript` `Typst`
-
-### 🎙️ [Podex](https://github.com/lgtm-hq/podex)
-
-Full-stack podcast app (FastAPI + Astro) with Docker Compose, transcription pipeline, and LLM processing. 40+ `justfile` recipes for unified task execution.
-
-`Python` `TypeScript` `Docker`
-
-### 🏠 [Homelab](https://github.com/TurboCoder13/turbo-dotfiles)
-
-Production-grade homelab on Ubuntu — 25+ Docker containers with Prometheus/Grafana observability, Traefik reverse proxy, Pi-hole + Unbound DNS, UFW hardening, and automated Kopia backups.
-
-`Docker` `Prometheus` `Grafana` `Traefik`
 
 ### <img src="./assets/images/raycast.svg" height="22" alt="Raycast"/> Raycast Extensions
 
