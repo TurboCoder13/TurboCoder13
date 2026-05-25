@@ -54,7 +54,7 @@ Privacy-first, offline-first résumé builder powered by Rust and Typst. Dockeri
 | --- | --- |
 | 🧹 **Lintro tools** | 28+ |
 | 🔄 **lgtm-ci workflows** | 30+ |
-| 🏢 **[LGTM HQ](https://github.com/lgtm-hq) repos** | 11 |
+| 🏢 **[LGTM HQ](https://github.com/lgtm-hq) repos** | 10 public · 1 private |
 | 📦 **Published to** | PyPI · npm · Homebrew · GHCR |
 
 <p align="center">
