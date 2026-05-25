@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust"/>
   <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
+  <a href="https://coderabbit.ai"><img src="https://img.shields.io/badge/-CodeRabbit-FF6B35?style=flat-square&logo=rabbit&logoColor=white" alt="CodeRabbit"/></a>
+  <a href="https://greptile.com"><img src="https://img.shields.io/badge/-Greptile-6366F1?style=flat-square&logoColor=white" alt="Greptile"/></a>
 </p>
 
 Hey! 👋 I'm a **DevOps engineer** based in the Netherlands 🇳🇱, originally from Cape Town 🇿🇦. I spend my days on CI/CD governance, platform automation, and infrastructure — and my evenings shipping open-source developer tools under [LGTM HQ](https://github.com/lgtm-hq).
@@ -42,10 +47,6 @@ Privacy-first, offline-first résumé builder powered by Rust and Typst. Dockeri
 ### <img src="./assets/images/raycast.svg" height="22" alt="Raycast"/> Raycast Extensions
 
 [Zshrc Manager](https://github.com/raycast/extensions/tree/main/extensions/zshrc-manager) · [Bunq](https://github.com/TurboCoder13/extensions/tree/add-bunq-extension/extensions/bunq)
-
-## 🎓 Certifications
-
-AWS AI Practitioner (2026) · SAFe 6 Practitioner (2025)
 
 ## 📊 Stats
 
