@@ -50,11 +50,20 @@ Privacy-first, offline-first résumé builder powered by Rust and Typst. Dockeri
 
 ## 📊 Stats
 
+| | |
+| --- | --- |
+| 🧹 **Lintro tools** | 28+ |
+| 🔄 **lgtm-ci workflows** | 30+ |
+| 🏢 **[LGTM HQ](https://github.com/lgtm-hq) repos** | 11 |
+| 📦 **Published to** | PyPI · npm · Homebrew · GHCR |
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TurboCoder13&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurboCoder13&layout=donut&theme=github_dark&hide_border=true" alt="Top Languages" height="195"/>
+  <a href="https://pypi.org/project/lintro/"><img src="https://img.shields.io/pypi/dm/lintro?style=flat-square&logo=pypi&logoColor=white&label=lintro" alt="PyPI downloads"/></a>
+  <a href="https://www.npmjs.com/package/@lgtm-hq/turbo-themes"><img src="https://img.shields.io/npm/dm/@lgtm-hq/turbo-themes?style=flat-square&logo=npm&logoColor=white&label=turbo-themes" alt="npm downloads"/></a>
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/lgtm-hq/py-lintro"><img src="https://api.securityscorecards.dev/projects/github.com/lgtm-hq/py-lintro/badge" alt="OpenSSF Scorecard"/></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eitel-dagnin-b72439132"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TurboCoder13&label=profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
