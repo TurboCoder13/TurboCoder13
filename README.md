@@ -24,11 +24,23 @@ Hey! 👋 I'm a **DevOps engineer** based in the Netherlands 🇳🇱, originall
 
 Unified CLI for linting, formatting, and quality assurance across 28+ tools. Published to PyPI, Homebrew, and GHCR.
 
+<p>
+  <a href="https://pypi.org/project/lintro/"><img src="https://img.shields.io/pypi/v/lintro?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="lintro PyPI version"/></a>
+  <a href="https://github.com/lgtm-hq/py-lintro/releases"><img src="https://img.shields.io/github/v/release/lgtm-hq/py-lintro?style=flat-square&logo=github&logoColor=white&label=Release" alt="lintro release version"/></a>
+  <a href="https://github.com/lgtm-hq/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-lgtm--hq%2Ftap-FCFF00?style=flat-square&logo=homebrew&logoColor=black" alt="lintro Homebrew tap"/></a>
+  <a href="https://github.com/lgtm-hq/py-lintro/pkgs/container/py-lintro"><img src="https://img.shields.io/docker/v/ghcr.io/lgtm-hq/py-lintro/latest?style=flat-square&logo=docker&logoColor=white&label=GHCR" alt="lintro GHCR version"/></a>
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/lgtm-hq/py-lintro"><img src="https://api.securityscorecards.dev/projects/github.com/lgtm-hq/py-lintro/badge" alt="OpenSSF Scorecard for py-lintro"/></a>
+</p>
+
 `Python` `Docker` `Shell` `Rust`
 
 ### 🔄 [lgtm-ci](https://github.com/lgtm-hq/lgtm-ci)
 
 Reusable GitHub Actions workflow library — 30+ workflows for quality gates, publishing, security scanning, and deployment. SHA-pinned and consumed across the org.
+
+<p>
+  <a href="https://github.com/lgtm-hq/lgtm-ci/releases"><img src="https://img.shields.io/github/v/release/lgtm-hq/lgtm-ci?style=flat-square&logo=github&logoColor=white&label=Release" alt="lgtm-ci release version"/></a>
+</p>
 
 `Shell` `YAML` `GitHub Actions`
 
@@ -36,11 +48,21 @@ Reusable GitHub Actions workflow library — 30+ workflows for quality gates, pu
 
 Universal, accessible theme packs with a drop-in theme selector. Catppuccin, Dracula, GitHub, Bulma, and more — on npm, PyPI, RubyGems, and SwiftPM.
 
+<p>
+  <a href="https://www.npmjs.com/package/@lgtm-hq/turbo-themes"><img src="https://img.shields.io/npm/v/@lgtm-hq/turbo-themes?style=flat-square&logo=npm&logoColor=white&label=npm" alt="turbo-themes npm version"/></a>
+  <a href="https://pypi.org/project/turbo-themes/"><img src="https://img.shields.io/pypi/v/turbo-themes?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="turbo-themes PyPI version"/></a>
+  <a href="https://rubygems.org/gems/turbo-themes"><img src="https://img.shields.io/gem/v/turbo-themes?style=flat-square&logo=rubygems&logoColor=white&label=RubyGems" alt="turbo-themes RubyGems version"/></a>
+</p>
+
 `TypeScript` `CSS`
 
 ### 📄 [Rustume](https://github.com/lgtm-hq/Rustume)
 
 Privacy-first, offline-first résumé builder powered by Rust and Typst. Dockerized deployment with multi-stage builds.
+
+<p>
+  <a href="https://github.com/lgtm-hq/Rustume/releases"><img src="https://img.shields.io/github/v/release/lgtm-hq/Rustume?style=flat-square&logo=github&logoColor=white&label=Release" alt="Rustume release version"/></a>
+</p>
 
 `Rust` `TypeScript` `Typst`
 
@@ -56,31 +78,6 @@ Privacy-first, offline-first résumé builder powered by Rust and Typst. Dockeri
 | 🔄 **lgtm-ci workflows** | 30+ |
 | 🏢 **[LGTM HQ](https://github.com/lgtm-hq) repos** | 10 public · 1 private |
 | 📦 **Published to** | PyPI · npm · RubyGems · Homebrew · GHCR |
-
-**🧹 [Lintro](https://github.com/lgtm-hq/py-lintro)**
-
-<p>
-  <a href="https://pypi.org/project/lintro/"><img src="https://img.shields.io/pypi/v/lintro?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="lintro PyPI version"/></a>
-  <a href="https://github.com/lgtm-hq/py-lintro/releases"><img src="https://img.shields.io/github/v/release/lgtm-hq/py-lintro?style=flat-square&logo=github&logoColor=white&label=Release" alt="lintro release version"/></a>
-  <a href="https://github.com/lgtm-hq/homebrew-tap"><img src="https://img.shields.io/badge/Homebrew-lgtm--hq%2Ftap-FCFF00?style=flat-square&logo=homebrew&logoColor=black" alt="lintro Homebrew tap"/></a>
-  <a href="https://github.com/lgtm-hq/py-lintro/pkgs/container/py-lintro"><img src="https://img.shields.io/docker/v/ghcr.io/lgtm-hq/py-lintro/latest?style=flat-square&logo=docker&logoColor=white&label=GHCR" alt="lintro GHCR version"/></a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/lgtm-hq/py-lintro"><img src="https://api.securityscorecards.dev/projects/github.com/lgtm-hq/py-lintro/badge" alt="OpenSSF Scorecard for py-lintro"/></a>
-</p>
-
-**🎨 [Turbo Themes](https://github.com/lgtm-hq/turbo-themes)**
-
-<p>
-  <a href="https://www.npmjs.com/package/@lgtm-hq/turbo-themes"><img src="https://img.shields.io/npm/v/@lgtm-hq/turbo-themes?style=flat-square&logo=npm&logoColor=white&label=npm" alt="turbo-themes npm version"/></a>
-  <a href="https://pypi.org/project/turbo-themes/"><img src="https://img.shields.io/pypi/v/turbo-themes?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="turbo-themes PyPI version"/></a>
-  <a href="https://rubygems.org/gems/turbo-themes"><img src="https://img.shields.io/gem/v/turbo-themes?style=flat-square&logo=rubygems&logoColor=white&label=RubyGems" alt="turbo-themes RubyGems version"/></a>
-</p>
-
-**🔄 [lgtm-ci](https://github.com/lgtm-hq/lgtm-ci)** · **📄 [Rustume](https://github.com/lgtm-hq/Rustume)**
-
-<p>
-  <a href="https://github.com/lgtm-hq/lgtm-ci/releases"><img src="https://img.shields.io/github/v/release/lgtm-hq/lgtm-ci?style=flat-square&logo=github&logoColor=white&label=lgtm-ci" alt="lgtm-ci release version"/></a>
-  <a href="https://github.com/lgtm-hq/Rustume/releases"><img src="https://img.shields.io/github/v/release/lgtm-hq/Rustume?style=flat-square&logo=github&logoColor=white&label=Rustume" alt="Rustume release version"/></a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eitel-dagnin-b72439132"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
