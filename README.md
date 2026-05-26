@@ -12,11 +12,12 @@
   <img src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
   <a href="https://coderabbit.ai"><img src="https://img.shields.io/badge/-CodeRabbit-FF6B35?style=flat-square&logo=rabbit&logoColor=white" alt="CodeRabbit"/></a>
   <a href="https://greptile.com"><img src="https://img.shields.io/badge/-Greptile-6366F1?style=flat-square&logoColor=white" alt="Greptile"/></a>
+  <a href="https://app.macroscope.com/lgtm-hq/code-review"><img src="https://img.shields.io/badge/-Macroscope-111827?style=flat-square&logoColor=white" alt="Macroscope"/></a>
 </p>
 
 Hey! 👋 I'm a **DevOps engineer** based in the Netherlands 🇳🇱, originally from Cape Town 🇿🇦. I spend my days on CI/CD governance, platform automation, and infrastructure — and my evenings shipping open-source developer tools under [LGTM HQ](https://github.com/lgtm-hq).
 
-🤖 Everything I ship is **AI-augmented** — Claude Code, Cursor, and Codex write the code; CodeRabbit and Greptile review it. But every line still passes through [Lintro](https://github.com/lgtm-hq/py-lintro) (28+ tools), OpenSSF Scorecard compliance, and full CI pipelines. AI writes faster; the toolchain makes sure it writes correctly.
+🤖 Everything I ship is **AI-augmented** — Claude Code, Cursor, and Codex write the code; CodeRabbit, Greptile, and Macroscope review it. But every line still passes through [Lintro](https://github.com/lgtm-hq/py-lintro) (28+ tools), OpenSSF Scorecard compliance, and full CI pipelines. AI writes faster; the toolchain makes sure it writes correctly.
 
 ## 🛠️ Projects
 
