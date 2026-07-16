@@ -37,6 +37,18 @@
   <br/>
 </div>
 
+## ⏪ Commit replay
+
+<sub>Agent-authored, human-directed — every public commit, replayed live. Built by
+[git-replay](https://github.com/TurboCoder13/git-replay); refreshed twice weekly.</sub>
+
+<div align="center">
+  <a href="https://turbocoder13.github.io/git-replay/"><img src="https://turbocoder13.github.io/git-replay/replay.svg" alt="Animated replay of every public commit: a playhead sweeps the timeline while bars light up, pink for additions, cyan for deletions"/></a>
+  <a href="https://turbocoder13.github.io/git-replay/"><img src="https://turbocoder13.github.io/git-replay/heatmap.svg" alt="Daily commit heatmap by year, brighter cells meaning more commits that day"/></a>
+  <a href="https://turbocoder13.github.io/git-replay/"><img src="https://turbocoder13.github.io/git-replay/repos.svg" alt="Commits per repository as horizontal bars, largest first"/></a>
+  <a href="https://turbocoder13.github.io/git-replay/"><img src="https://turbocoder13.github.io/git-replay/stat.svg" alt="Stat tile: share of commits that are agent-authored, written by Claude Code under human direction"/></a>
+</div>
+
 <!-- BEGIN:auto-projects — regenerated nightly; descriptions come straight from each repo -->
 ## 📦 More projects
 
