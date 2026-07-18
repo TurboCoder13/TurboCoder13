@@ -9,6 +9,6 @@
 <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">
 <circle cx="26" cy="126" r="6" fill="#89e051"/>
 <text x="38" y="126" fill="#c9d1d9" dominant-baseline="central">Shell</text>
-<rect x="94" y="116" width="66" height="20" rx="10" fill="none" stroke="#d29922"/><text x="127" y="126" font-size="12" fill="#d29922" text-anchor="middle" dominant-baseline="central">v0.54.0</text>
+<rect x="94" y="116" width="66" height="20" rx="10" fill="none" stroke="#d29922"/><text x="127" y="126" font-size="12" fill="#d29922" text-anchor="middle" dominant-baseline="central">v0.59.0</text>
 <rect x="170" y="116" width="101" height="20" rx="10" fill="none" stroke="#3fb950"/><text x="220" y="126" font-size="12" fill="#3fb950" text-anchor="middle" dominant-baseline="central">ci ✓ passing</text>
 </g></svg>
