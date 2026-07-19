@@ -9,6 +9,6 @@
 <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">
 <circle cx="26" cy="126" r="6" fill="#3178c6"/>
 <text x="38" y="126" fill="#c9d1d9" dominant-baseline="central">TypeScript</text>
-<rect x="131" y="116" width="66" height="20" rx="10" fill="none" stroke="#d29922"/><text x="164" y="126" font-size="12" fill="#d29922" text-anchor="middle" dominant-baseline="central">v0.29.1</text>
+<rect x="131" y="116" width="66" height="20" rx="10" fill="none" stroke="#d29922"/><text x="164" y="126" font-size="12" fill="#d29922" text-anchor="middle" dominant-baseline="central">v0.32.0</text>
 <rect x="207" y="116" width="101" height="20" rx="10" fill="none" stroke="#3fb950"/><text x="258" y="126" font-size="12" fill="#3fb950" text-anchor="middle" dominant-baseline="central">ci ✓ passing</text>
 </g></svg>
