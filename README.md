@@ -46,7 +46,7 @@
   <a href="https://turbocoder13.github.io/git-replay/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://turbocoder13.github.io/git-replay/replay.svg"><source media="(prefers-color-scheme: light)" srcset="https://turbocoder13.github.io/git-replay/replay-light.svg"><img src="https://turbocoder13.github.io/git-replay/replay.svg" alt="Animated replay of every public commit: a playhead sweeps the timeline while bars light up, pink for additions, cyan for deletions"/></picture></a>
   <a href="https://turbocoder13.github.io/git-replay/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://turbocoder13.github.io/git-replay/heatmap.svg"><source media="(prefers-color-scheme: light)" srcset="https://turbocoder13.github.io/git-replay/heatmap-light.svg"><img src="https://turbocoder13.github.io/git-replay/heatmap.svg" alt="Daily commit heatmap by year, brighter cells meaning more commits that day"/></picture></a>
   <a href="https://turbocoder13.github.io/git-replay/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://turbocoder13.github.io/git-replay/repos.svg"><source media="(prefers-color-scheme: light)" srcset="https://turbocoder13.github.io/git-replay/repos-light.svg"><img src="https://turbocoder13.github.io/git-replay/repos.svg" alt="Commits per repository as horizontal bars, largest first"/></picture></a>
-  <a href="https://turbocoder13.github.io/git-replay/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://turbocoder13.github.io/git-replay/stat.svg"><source media="(prefers-color-scheme: light)" srcset="https://turbocoder13.github.io/git-replay/stat-light.svg"><img src="https://turbocoder13.github.io/git-replay/stat.svg" alt="Stat tile: share of commits that are agent-authored, written by Claude Code under human direction"/></picture></a>
+  <a href="https://turbocoder13.github.io/git-replay/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://turbocoder13.github.io/git-replay/stat.svg"><source media="(prefers-color-scheme: light)" srcset="https://turbocoder13.github.io/git-replay/stat-light.svg"><img src="https://turbocoder13.github.io/git-replay/stat.svg" alt="Stat tile: share of commits that are agent-authored, written by AI coding agents under human direction"/></picture></a>
 </div>
 
 <!-- BEGIN:auto-projects — regenerated nightly; descriptions come straight from each repo -->
@@ -67,7 +67,7 @@
 | --- | --- | --- |
 | **Zshrc Manager** | 🟢 In the Store | [Store](https://www.raycast.com/TurboCoder13/zshrc-manager) · backed by [shell-alias-collections](https://github.com/TurboCoder13/shell-alias-collections) |
 | **Bunq** | 🟢 In the Store | [Store](https://www.raycast.com/TurboCoder13/bunq) |
-| **Tesla Clips** | 🟡 In review | [PR #28505](https://github.com/raycast/extensions/pull/28505) |
+| **Tesla Clips** | 🟢 In the Store | [Store](https://www.raycast.com/TurboCoder13/tesla-clips) |
 | **Renaming** | 🔵 Contributor | [PR #26734](https://github.com/raycast/extensions/pull/26734) · [Store](https://www.raycast.com/theo_daguier/renaming) |
 
 <p align="center">
