@@ -9,5 +9,5 @@
 <g font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">
 <circle cx="26" cy="126" r="6" fill="#3178c6"/>
 <text x="38" y="126" fill="#c9d1d9" dominant-baseline="central">TypeScript</text>
-<rect x="131" y="116" width="66" height="20" rx="10" fill="none" stroke="#d29922"/><text x="164" y="126" font-size="12" fill="#d29922" text-anchor="middle" dominant-baseline="central">v0.56.0</text>
+<rect x="131" y="116" width="66" height="20" rx="10" fill="none" stroke="#d29922"/><text x="164" y="126" font-size="12" fill="#d29922" text-anchor="middle" dominant-baseline="central">v0.59.0</text>
 </g></svg>
